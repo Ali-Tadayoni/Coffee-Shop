@@ -31,7 +31,7 @@ You can also run the project locally in your computer, just follow steps below
 2. Install dependencies:
 
    ```
-   npm start
+   npm install
    ```
 
 ### Project Status:
